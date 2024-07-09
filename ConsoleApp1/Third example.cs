@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +16,7 @@ namespace ConsoleApp1
 
             char[] nameArray = name.ToCharArray();
             Array.Reverse(nameArray);
+
 
             string reverse = new string(nameArray);
 
