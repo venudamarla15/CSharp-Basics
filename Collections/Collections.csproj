@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Collections.ArrayListDemo.CopyArray2</StartupObject>
+    <StartupObject>Collections.HashtableDemo.Adding_Items_in_Hashtable</StartupObject>
   </PropertyGroup>
 
 </Project>
